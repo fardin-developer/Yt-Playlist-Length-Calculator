@@ -1,0 +1,20 @@
+{
+  "name": "playlist-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2"
+  }
+}
